@@ -1,17 +1,17 @@
-# DengueMap
+# MosquitoMap
 Projeto de desenvolvimento para a disciplina deProjeto-Desenvolvimento-2 do curso Tecnólogo em Analise e desenvolvimento de Sistemas - SENAC RS.
 
 ## Visão de Produto
 
 **Para** Equipes de controle de endemias
 
-**Que** precisam eliminar os criadouros do mosquito da dengue
+**Que** precisam eliminar os criadouros do mosquito Aedes aegypti
 
-**O** DengueMap
+**O** MosquitoMap
 
 **É** uma aplicação mobile
 
-**Que** facilita identificar e revisar periodicamente os potenciais criadouros do mosquito da dengue
+**Que** facilita identificar e revisar periodicamente os potenciais criadouros
 
 **Diferentemente** de depender de anotações ou planilhas
 

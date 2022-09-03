@@ -3,7 +3,7 @@ Projeto de desenvolvimento para a disciplina deProjeto-Desenvolvimento-2 do curs
 
 ## Visão de Produto
 
-**Para** Equipes de controle de endemias
+**Para** pessoas no territorio brasileiro
 
 **Que** precisam eliminar os criadouros do mosquito Aedes aegypti
 
